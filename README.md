@@ -1,5 +1,12 @@
 # riffr-backend
-UVG-CC30622020201 Project backend. riffr is ideally the final name. Based on spooky309's idea.
+UVG-CC30622020201 Project backend. riffr is ideally the final name. Based on [spooky309](https://github.com/Spooky309)'s idea.
+
+## Libraries required
+Made on Python Django; I will update which version soon.
+
+(tbd)
+
+
 
 ## Description
 Site that allows you to upload small snippets of midi and displays them in standard notation, allowing them to be played. Supports all GM instruments.
